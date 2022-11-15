@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/ColeMatthewBienek/react-app-template.git"
   },
-  "author": "Cole Bienek, supported by electric.pen",
+  "author": "Cole Bienek",
   "license": "ISC",
   "devDependencies": {
     "@babel/preset-env": "^7.18.10",
