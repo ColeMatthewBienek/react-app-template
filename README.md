@@ -5,8 +5,8 @@
 Clone repo, and either use as a template, or simply use the repo locally.
 There are scripts in package.json for startng the  node server and webpack.
  - from the project root, run:
- - - npm run start
- - - npm run build
+ - - npm run server-start
+ - - npm run react-build
 
 ## Webpack.config.js
 (copied from electric.pen)
