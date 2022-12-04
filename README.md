@@ -1,31 +1,12 @@
 # react-app-template
-### Instructions for creating a basic react template
 
-- create git repo and project directory
-- npm init -y
-- - to initialize package.json
-- create directory structure:
-- - client
-- - - dist (folder)
-- - - - index.html
-- - - src (folder)
-- - - - app.js ( or .jsx)
-- - - server (folder)
-- - - - server.js
-- - - index.js
+### To use:
 
-### Install dependencies
-(see package.json for details)
-- node
-- react, react-dom
-- babel
-- mySql
-- webpack
-- axios
-- express
-
-### add npm scripts to start server/ run app
-- see package.json
+Clone repo, and either use as a template, or simply use the repo locally.
+There are scripts in package.json for startng the  node server and webpack.
+ - from the project root, run:
+ - - npm run start
+ - - npm run build
 
 ## Webpack.config.js
 (copied from electric.pen)
